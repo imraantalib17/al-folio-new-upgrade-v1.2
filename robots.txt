@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://imraan.yoyoscoolwebsite.net//sitemap.xml
+Sitemap: https://imraan.yoyoscoolwebsite.net/al-folio-new-upgrade-v1.2/sitemap.xml
